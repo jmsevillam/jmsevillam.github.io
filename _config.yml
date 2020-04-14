@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Welcome
-github.is_project_page: false
+github.is_project_page: true
 is_project_page: true
 logo: https://avatars3.githubusercontent.com/u/39960794?s=460&v=4
 show_downloads: true
