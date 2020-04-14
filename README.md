@@ -1,10 +1,10 @@
-# Mauricio Sevilla
+# J.M. Sevilla-Moreno
 
-Pages of github. Jmsevillam
-
-Now there are some projects running on, so this page is done to organize and for having an easy to acces to everything. 
+This is a personal website with some projects information so 
 
 1. Teaching
-   * Courses
-   * Seminars  
+    * Courses
+    * Seminars  
 2. Learning
+    * Coding
+    * Physics
