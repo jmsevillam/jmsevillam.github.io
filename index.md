@@ -1,6 +1,25 @@
----
 layout: home
+paginate: true
+alt_title: "Mauricio Sevilla"
+sub_title: "Personal Website"
+image: https://github.com/jmsevillam/index/raw/gh-pages/bg.png
+introduction: |
+  This space is done to put together all the codes and ideas I have been developing over the years.
+
+  Now I want to focus myself on programming on different languages such as `python`, `C/C++` where I have now some experience, but also in others such as `Julia` and `Ruby` but with a scientific approach to it.
+
+  It basically means that I want to apply all of this to practical physics projects. 
+
+  Then, having this in mind, I'd like to go to some optimization/Parallelization techniques/tools such as
+
+  - OpenMP
+  - MPI
+  - Cuda
+  - Cython
+  - Numba
+
+actions:
+  - label: "Get Started"
+    icon: github
+    url: "https://github.com/jmsevillam"
 ---
-
-
-This is a test
