@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: About
+layout: about
 ---
 
 Test
