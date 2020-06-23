@@ -67,6 +67,30 @@
     "summary": "Description..."
   }],
   "skills": [{
+    "name": "Scientific Computing",
+    "level": "Master",
+    "keywords": [
+      "C/C++",
+      "Python",
+      "Bash"
+    ]
+  },{
+    "name": "HPC",
+    "level": "Master",
+    "keywords": [
+      "OpenMP",
+      "MPI",
+      "CUDA Basics"
+    ]
+  },{
+    "name": "Visualization",
+    "level": "Master",
+    "keywords": [
+      "GNUplot",
+      "Python/Plotly",
+      "Python/Bokeh"
+    ]
+  },{
     "name": "Web Development",
     "level": "Master",
     "keywords": [
