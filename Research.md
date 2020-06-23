@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: About
+layout: about
 ---
 
 Test
