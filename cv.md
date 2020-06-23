@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitæ
-layout: CV
+layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
